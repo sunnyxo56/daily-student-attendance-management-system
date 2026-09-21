@@ -1,0 +1,6 @@
+{
+  "name": "Daily Student Attendance Management System",
+  "description": "Track daily classes, calculate attendance percentage, simulate bunk impact, and monitor 76% attendance threshold with safe bunk limits and detention warnings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
